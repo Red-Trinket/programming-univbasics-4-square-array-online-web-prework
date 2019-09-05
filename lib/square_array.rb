@@ -4,4 +4,5 @@ def square_array(array)
     array[x] = (array[x] ** 2)
     x = x + 1 
   end
+  array
 end
